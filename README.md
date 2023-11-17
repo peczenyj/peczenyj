@@ -7,5 +7,5 @@
 </span>
 
 <span>
-  <img src="https://github.com/peczenyj/peczenyj/blob/master/gopher.gif" />
+  <img src="https://github.com/peczenyj/peczenyj/blob/main/gopher.gif" />
 </span>
