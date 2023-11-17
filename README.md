@@ -3,7 +3,7 @@
 </span>
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peczenyj&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peczenyj&theme=radical&hide=html&exclude_repo=peczenyj.github.com" />
 </span>
 
 <span>
