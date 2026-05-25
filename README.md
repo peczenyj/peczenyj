@@ -1,5 +1,5 @@
 <span>
-  <img align="left" src="https://github-stats-extended.vercel.app/api?username=peczenyj&include_all_commits=true&theme=shadow_red"/>
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=peczenyj&include_all_commits=true&theme=default_repocard"/>
 </span>
 
 <span>
